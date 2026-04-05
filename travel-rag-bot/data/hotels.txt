@@ -1,0 +1,93 @@
+=== CHENNAI HOTELS ===
+Luxury Hotels:
+ITC Grand Chola - Guindy - Price Rs.12000 to Rs.25000 per night - 5 Star - Features: Pool, Spa, Multiple restaurants, Gym
+The Leela Palace Chennai - MRC Nagar - Price Rs.10000 to Rs.22000 per night - 5 Star - Features: Beachside, Pool, Spa
+Taj Coromandel - Nungambakkam - Price Rs.9000 to Rs.20000 per night - 5 Star - Features: Central location, Pool, Fine dining
+Hyatt Regency Chennai - Anna Salai - Price Rs.7000 to Rs.15000 per night - 5 Star - Features: Pool, Gym, Business center
+
+Mid-Range Hotels:
+Radisson Blu Chennai - Egmore - Price Rs.4000 to Rs.7000 per night - 4 Star
+GRT Grand Chennai - T Nagar - Price Rs.3500 to Rs.6000 per night - 4 Star - Near shopping areas
+Comfort Inn Chennai - Anna Nagar - Price Rs.2500 to Rs.4500 per night - 3 Star
+Hotel Palmgrove - Nungambakkam - Price Rs.2000 to Rs.4000 per night - 3 Star
+
+Budget Hotels:
+Hotel Regal - Egmore - Price Rs.800 to Rs.1500 per night - Near Chennai Central Railway Station
+Hotel Blue Diamond - Triplicane - Price Rs.600 to Rs.1200 per night
+YMCA Chennai - Nungambakkam - Price Rs.500 to Rs.900 per night - Budget dormitory available
+OYO Rooms - Available across Chennai - Price Rs.500 to Rs.1500 per night
+
+=== MUMBAI HOTELS ===
+Luxury Hotels:
+The Taj Mahal Palace - Colaba - Price Rs.25000 to Rs.80000 per night - 5 Star - Iconic heritage hotel overlooking Gateway of India
+The Oberoi Mumbai - Nariman Point - Price Rs.20000 to Rs.60000 per night - 5 Star - Sea view rooms available
+Four Seasons Mumbai - Worli - Price Rs.18000 to Rs.45000 per night - 5 Star - Sea facing property
+Trident Nariman Point - Mumbai - Price Rs.12000 to Rs.30000 per night - 5 Star
+
+Mid-Range Hotels:
+Ramada by Wyndham Mumbai - Powai - Price Rs.5000 to Rs.9000 per night - 4 Star
+Hotel Suba Palace - Colaba - Price Rs.4000 to Rs.7000 per night - 3 Star - Near Gateway of India
+Residency Hotel Mumbai - Fort - Price Rs.3000 to Rs.6000 per night - 3 Star
+Hotel City Palace - Near CST Station - Price Rs.2000 to Rs.4000 per night
+
+Budget Hotels:
+Backpacker Panda - Colaba - Price Rs.500 to Rs.1200 per night - Hostel with dorms
+Hotel Lawrence - Colaba - Price Rs.1500 to Rs.3000 per night - Budget friendly
+YMCA Mumbai - Colaba - Price Rs.1000 to Rs.2000 per night
+OYO Rooms - Available across Mumbai - Price Rs.600 to Rs.2000 per night
+
+=== DELHI HOTELS ===
+Luxury Hotels:
+The Imperial New Delhi - Janpath - Price Rs.20000 to Rs.50000 per night - 5 Star - Heritage colonial hotel
+The Leela Palace New Delhi - Chanakyapuri - Price Rs.18000 to Rs.45000 per night - 5 Star
+ITC Maurya - Chanakyapuri - Price Rs.15000 to Rs.40000 per night - 5 Star - Bukhara restaurant famous worldwide
+Taj Mahal Hotel Delhi - Mansingh Road - Price Rs.14000 to Rs.35000 per night - 5 Star
+
+Mid-Range Hotels:
+The Claridges - Aurangzeb Road - Price Rs.8000 to Rs.15000 per night - Heritage 4 Star
+Radisson Blu Dwarka - Price Rs.5000 to Rs.9000 per night - 4 Star
+Hotel Diplomat - Sardar Patel Marg - Price Rs.4000 to Rs.7000 per night - 3 Star
+Bloomrooms at New Delhi Railway Station - Price Rs.2500 to Rs.4500 per night
+
+Budget Hotels:
+Moustache Hostel - Paharganj - Price Rs.400 to Rs.800 per night - Popular backpacker hostel
+Hotel Vivek - Paharganj - Price Rs.800 to Rs.1500 per night - Budget hotel near New Delhi Station
+YMCA Delhi - Jai Singh Road - Price Rs.1500 to Rs.3000 per night
+OYO Rooms - Available across Delhi - Price Rs.500 to Rs.1500 per night
+
+=== GOA HOTELS ===
+Luxury Hotels:
+Taj Exotica Resort - Benaulim South Goa - Price Rs.15000 to Rs.40000 per night - 5 Star - Beachside luxury
+The Leela Goa - Cavelossim - Price Rs.14000 to Rs.35000 per night - 5 Star - Private beach
+Grand Hyatt Goa - Bambolim - Price Rs.12000 to Rs.30000 per night - 5 Star
+W Goa - Vagator - Price Rs.10000 to Rs.25000 per night - 5 Star - Trendy beachside resort
+
+Mid-Range Hotels:
+Cidade de Goa - Panaji - Price Rs.5000 to Rs.10000 per night - 4 Star - Portuguese architecture
+Alila Diwa Goa - Majorda - Price Rs.6000 to Rs.12000 per night - 4 Star
+Resort Terra Paraiso - Calangute - Price Rs.3000 to Rs.6000 per night - 3 Star
+Hotel Mandovi - Panaji - Price Rs.2500 to Rs.5000 per night - 3 Star
+
+Budget Hotels:
+Zostel Goa - Anjuna - Price Rs.400 to Rs.800 per night - Popular backpacker hostel
+Hotel Bougainvillea - Calangute - Price Rs.1000 to Rs.2500 per night
+OYO Rooms Goa - Available across beaches - Price Rs.600 to Rs.2000 per night
+Airbnb - Many beach houses available - Price Rs.1500 to Rs.5000 per night
+
+=== OOTY HOTELS ===
+Luxury Hotels:
+Savoy Hotel Ooty - Sylks Road - Price Rs.8000 to Rs.18000 per night - 5 Star - Heritage colonial hotel built in 1829
+Taj Savoy Ooty - Price Rs.7000 to Rs.15000 per night - 5 Star - Colonial era property with gardens
+Sterling Elk Hill - Price Rs.6000 to Rs.12000 per night - 4 Star - Surrounded by tea gardens
+
+Mid-Range Hotels:
+Hotel Lakeview - Ooty Lake Road - Price Rs.2500 to Rs.5000 per night - 3 Star - Lake view rooms
+Fortune Sullivan Court - Price Rs.3000 to Rs.6000 per night - 4 Star
+Hotel YWCA Anandagiri - Price Rs.1500 to Rs.3000 per night - Near botanical gardens
+Hotel Reflections - Price Rs.2000 to Rs.4000 per night - 3 Star
+
+Budget Hotels:
+Hotel Tamil Nadu - TTDC - Price Rs.800 to Rs.2000 per night - Government hotel
+Hotel Nahar - Commercial Road - Price Rs.600 to Rs.1500 per night
+Youth Hostel Ooty - Price Rs.300 to Rs.600 per night - Budget dormitory
+OYO Rooms Ooty - Price Rs.700 to Rs.2000 per night

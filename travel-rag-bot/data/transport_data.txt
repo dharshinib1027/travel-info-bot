@@ -1,0 +1,52 @@
+=== CHENNAI TRANSPORT ===
+Bus Route 1: Parry's Corner to Tambaram - Distance 35 km - Travel Time 90 minutes - Fare Rs.25
+Bus Route 5: Central to Anna Nagar - Distance 12 km - Travel Time 45 minutes - Fare Rs.15
+Bus Route 21: T Nagar to Velachery - Distance 10 km - Travel Time 40 minutes - Fare Rs.12
+Metro Line 1: Wimco Nagar to Chennai Airport - Distance 23 km - 18 Stations - Travel Time 40 minutes - Fare Rs.10 to Rs.60
+Metro Line 2: Chennai Central to Egmore - Distance 10 km - 8 Stations - Travel Time 20 minutes - Fare Rs.10 to Rs.40
+Suburban Train: Chennai Central to Tambaram - Distance 30 km - Travel Time 50 minutes - Fare Rs.10
+Suburban Train: Chennai Central to Chengalpattu - Distance 55 km - Travel Time 75 minutes - Fare Rs.20
+Auto Rickshaw: Available across city - Minimum fare Rs.50 - Per km Rs.15
+Taxi/Cab: Ola and Uber available - Minimum fare Rs.80
+Chennai Airport: Located at Meenambakkam - 16 km from city center - Metro and Bus connectivity available
+
+=== MUMBAI TRANSPORT ===
+Local Train Western Line: Churchgate to Virar - Distance 60 km - Travel Time 90 minutes - Fare Rs.15 to Rs.55
+Local Train Central Line: CST to Kalyan - Distance 55 km - Travel Time 80 minutes - Fare Rs.15 to Rs.50
+Local Train Harbour Line: CST to Panvel - Distance 45 km - Travel Time 70 minutes - Fare Rs.15 to Rs.45
+Metro Line 1: Versova to Ghatkopar - Distance 11.4 km - 12 Stations - Travel Time 21 minutes - Fare Rs.10 to Rs.40
+Metro Line 2A: Dahisar to DN Nagar - Distance 18.6 km - 17 Stations - Fare Rs.10 to Rs.50
+BEST Bus: Extensive network across Mumbai - Fare Rs.6 to Rs.20
+Mumbai Monorail: Chembur to Jacob Circle - Distance 19.5 km - 17 Stations - Fare Rs.10 to Rs.40
+Auto Rickshaw: Available in suburbs - Minimum fare Rs.23
+Taxi: Available city-wide - Minimum fare Rs.28
+Mumbai International Airport: Located at Sahar - Well connected by Metro, Bus and Taxi
+
+=== DELHI TRANSPORT ===
+Delhi Metro Blue Line: Dwarka to Noida Electronic City - Distance 50.6 km - 50 Stations - Fare Rs.10 to Rs.60
+Delhi Metro Red Line: Rithala to Shaheed Sthal - Distance 34.6 km - 29 Stations - Fare Rs.10 to Rs.60
+Delhi Metro Yellow Line: Samaypur Badli to HUDA City Centre - Distance 49 km - 37 Stations - Fare Rs.10 to Rs.60
+Delhi Metro Green Line: Inderlok to Brigadier Hoshiyar Singh - Distance 29.6 km - 21 Stations
+DTC Bus: Extensive network across Delhi - Fare Rs.10 to Rs.25
+Auto Rickshaw: Available across Delhi - Minimum fare Rs.25
+Delhi Airport Express: New Delhi to IGI Airport - Distance 22.7 km - Travel Time 20 minutes - Fare Rs.60
+IGI Airport: Located in Dwarka - Well connected by Metro Airport Express
+
+=== GOA TRANSPORT ===
+Bus: Kadamba Transport Corporation buses - Panaji to Mapusa Rs.15 - Panaji to Margao Rs.25
+Local Bus: Frequent buses across North and South Goa - Fare Rs.10 to Rs.40
+Taxi: Pre-paid taxis available - Panaji to Airport Rs.600 to Rs.900
+Auto Rickshaw: Available in main towns - Minimum fare Rs.50
+Bike Rental: Available across Goa - Rs.300 to Rs.500 per day
+Scooter Rental: Available at most hotels - Rs.400 to Rs.600 per day
+Ferry: Panaji to Betim ferry - Free service - Travel Time 5 minutes
+Goa International Airport: Located at Dabolim - 29 km from Panaji - Taxi service available
+
+=== OOTY TRANSPORT ===
+Nilgiri Mountain Railway: Mettupalayam to Ooty - Distance 46 km - Travel Time 5 hours - Fare Rs.30 to Rs.215 - UNESCO World Heritage train
+Bus: TNSTC buses available - Ooty to Coimbatore Rs.80 - Ooty to Mysore Rs.120
+Taxi: Available at Ooty bus stand - Ooty to Kodaikanal Rs.3000 to Rs.4000
+Auto Rickshaw: Available in Ooty town - Minimum fare Rs.50
+Toy Train: Ooty to Coonoor - Travel Time 1 hour 40 minutes - Fare Rs.30 - Scenic route through tea gardens
+Ooty is 90 km from Coimbatore by road - Travel Time 2.5 hours
+Ooty is 128 km from Mysore by road - Travel Time 3 hours
